@@ -21,6 +21,15 @@ The purpose of this project is to develop a web-based simulator that helps in te
   Third-year IT student at OAMK, Finland  
   Project for **Teknoware**, Oulu, Finland
 
+- **Rachna Kumar**  
+  Third-year IT student at OAMK, Finland  
+  Project for **Teknoware**, Oulu, Finland
+
+- **Hakan Asmaoglu**  
+  Third-year IT student at OAMK, Finland  
+  Project for **Teknoware**, Oulu, Finland
+  
+
 ## Technologies Used
 
 - **Frontend**: React, JavaScript, Bootstrap
